@@ -1,0 +1,14 @@
+details about 
+
+unorderedmap
+
+1.It is unordered map , that is no particular order in which keys are arranged
+2.it uses hash map at its base , and allows 0(1) access
+3.it stores in form of key value pair 
+4.allows any form of data type , like int , pair , vectors etc but always need 2 values
+
+map
+1.it stores in a proper order based on key 
+2.uses tree internally to store data , allows O(log n)
+
+
